@@ -80,7 +80,7 @@ namespace WindowsFormsApp1
                 pic1.BackgroundImage = Properties.Resources.BCvertical;
             }
         }
-
+        //new commit
         private void button2_Click(object sender, EventArgs e)
         {
             button = "button2";
